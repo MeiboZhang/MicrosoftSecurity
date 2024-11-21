@@ -1,7 +1,6 @@
 # 微软安全参考架构 & Microsoft Cybersecurity Reference Architecture (MCRA)
 
-Latest update with NEW security features and name UPDATE. - March 2024
-
+Latest update with NEW security features and name UPDATE. - November 2024 (After Microsoft Ignite 2024)
 
 ![MSRA-Updated on 2024-11](https://github.com/MeiboZhang/MicrosoftSecurity/blob/main/MSRA-2024-11.jpg)
 
