@@ -3,7 +3,7 @@
 Latest update with NEW security features and name UPDATE. - March 2024
 
 
-![MSRA-Updated on 2024-11]([https://github.com/MeiboZhang/MicrosoftSecurity/blob/main/MSRA-2024-03.jpg](https://github.com/MeiboZhang/MicrosoftSecurity/blob/main/MSRA-2024-11.jpg)
+![MSRA-Updated on 2024-11](https://github.com/MeiboZhang/MicrosoftSecurity/blob/main/MSRA-2024-11.jpg)
 
 ![微软安全参考架构-更新于2024-11](https://github.com/MeiboZhang/MicrosoftSecurity/blob/main/MSRA-2024-11.jpg)
 
